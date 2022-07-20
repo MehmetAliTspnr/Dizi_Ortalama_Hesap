@@ -1,0 +1,1 @@
+# Dizi_Ortalama_Hesap
