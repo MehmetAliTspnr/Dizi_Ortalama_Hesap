@@ -18,7 +18,7 @@ namespace Dizi_ile_listeleme_ortalama_sorusu
 
             for (i = 0; i < isim.Length; i++)
             {   Console.WriteLine("İSİM GİRİNİZ:");
-                isim[i] = Convert.ToString(Console.ReadLine());
+                isim[i] = Console.ReadLine();
 
                 Console.WriteLine("1.sinav notunu giriniz");
                 s1[i] = Convert.ToInt32(Console.ReadLine());
