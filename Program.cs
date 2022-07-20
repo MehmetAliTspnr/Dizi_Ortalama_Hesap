@@ -8,7 +8,7 @@ namespace Dizi_ile_listeleme_ortalama_sorusu
 {
     internal class Program
     {
-        static void Main(string[] args)//2 SİNAV NOTU GİR-ort gir-VERİYİ TUT DİZİ İLE-HESAPLA LİSTELE.
+        static void Main(string[] args)//2 SİNAV NOTU GİR-ORTALAMA HESAPLA-VERİYİ TUT DİZİ İLE-HESAPLA LİSTELE.
         {
             int i;
             string[] isim = new string[3];
